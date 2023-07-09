@@ -1,1 +1,4 @@
 # Food_Scan
+The frontend part of app is created using React Native for application thath will allow the user to scan the product using a barcode, based on which the user receives recipes and nutritional information about the product (calories, proteins...). Depending on whether the user wants to lose or gain weight, he will choose recipes that suit him.
+
+After project is cloned and all dependencies are installed, the fastest way to run the application is with the ```Expo Go``` application. Install Expo Go on your smart phone and in the terminal type the command  ```npx expo start``` that will create a QR code. After that, just scan the QR code.
